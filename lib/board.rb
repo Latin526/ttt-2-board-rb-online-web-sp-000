@@ -1,5 +1,5 @@
 # Define the variable board below.
 
-def board
-  board = Array.new [" ", " ", " ", " ", " ", " ", " ", " ", " "]
+def board(Array, index)
+  board [" ", " ", " ", " ", " ", " ", " ", " ", " "]
 end
