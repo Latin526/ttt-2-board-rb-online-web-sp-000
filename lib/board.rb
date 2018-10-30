@@ -1,5 +1,5 @@
 # Define the variable board below.
 
 def board(Array, index)
-  board [" ", " ", " ", " ", " ", " ", " ", " ", " "]
+  board = Array.new [" ", " ", " ", " ", " ", " ", " ", " ", " "]
 end
